@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my blog! I'm a passionate enthusiast of RISC-V, the open and extensible Instruction Set Architecture (ISA) that is revolutionizing the world of computing. My interest in RISC-V stems from its open-source nature, flexibility, and the vibrant community that surrounds it.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+On this blog, I aim to share my journey with RISC-V, provide insights into its technical aspects, and explore the innovative projects and applications built on this architecture. Whether you are a seasoned developer or a curious newcomer, I hope to offer valuable content that supports and grows the RISC-V ecosystem.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Join me as we delve into the world of RISC-V and contribute to a more open and collaborative future in technology.
 
+Stay tuned for articles, tutorials, and discussions that will help you understand and utilize the power of RISC-V!
 
-[jekyll-organization]: https://github.com/jekyll
+Thank you for visiting, and let's embark on this exciting journey together.
