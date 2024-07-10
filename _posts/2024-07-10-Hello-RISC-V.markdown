@@ -4,15 +4,12 @@ title:  "Hello RISC-V!"
 date:   2024-07-10 05:42:17 +0530
 categories: riscv diy hello world
 ---
-### RISC-V
 
 RISC-V is an open standard instruction set architecture (ISA) that has gained significant traction in the tech industry due to its flexibility and extensibility. Unlike proprietary ISAs, RISC-V is free and open, allowing anyone to design, manufacture, and sell RISC-V chips and software without licensing fees. This openness promotes innovation and customization, making it ideal for a wide range of applications, from academic research to commercial products. Its modular design supports a simplified core while allowing for specialized extensions, making RISC-V a versatile choice for modern computing needs.
 
-### Official link
-
 The RISC-V Foundation website, found at [riscv.org](https://riscv.org), serves as the primary hub for all things related to RISC-V. It offers a wealth of resources, including detailed information about the RISC-V architecture, its open-source nature, and the vibrant community of developers and companies supporting it. The site features news, events, technical documentation, and educational materials, making it an invaluable resource for anyone interested in learning about or contributing to the RISC-V ecosystem.
 
-#### Comparison with Other Architectures
+### Comparison with Other Architectures
 
 RISC-V offers several advantages and differences compared to other architectures:
 
@@ -58,15 +55,15 @@ The Privileged ISA also includes:
 
 Detailed information and specifications for the Privileged ISA can be found [here](https://github.com/riscv/riscv-isa-manual).
 
-#### RISC-V Toolchain
+### RISC-V Toolchain
 
 The RISC-V toolchain includes a suite of software tools necessary for developing software that runs on RISC-V processors. This typically includes a compiler, assembler, linker, and debugger. The GNU Compiler Collection (GCC) for RISC-V can be found on the official [RISC-V GitHub repository](https://github.com/riscv/riscv-gnu-toolchain), which provides detailed instructions on building and installing the toolchain.
 
-#### RISC-V Simulators
+### RISC-V Simulators
 
 Simulators are crucial for testing and development before deploying on actual hardware. One of the most popular simulators for RISC-V is [Spike](https://github.com/riscv/riscv-isa-sim), the RISC-V Instruction Set Simulator. Spike emulates the RISC-V instruction set and can be used to run RISC-V binaries in a virtual environment, making it easier for developers to test and debug their code.
 
-#### Summary
+### Summary
 
 For more comprehensive resources, detailed documentation, and the latest updates on RISC-V, visit the [RISC-V website](https://riscv.org). For software development, access the [RISC-V GNU toolchain](https://github.com/riscv/riscv-gnu-toolchain), and for simulation and testing, explore the [Spike simulator](https://github.com/riscv/riscv-isa-sim) also the specifications can be found [here](https://github.com/riscv/riscv-isa-manual).
 
