@@ -21,7 +21,7 @@
 title: Hello RISC-V
 email: premjithav@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-As a RISC-V enthusiast, I explore how this open-source architecture can revolutionize computing, sharing insights and the latest developments.
+  As a RISC-V enthusiast, I explore how this open-source architecture can revolutionize computing, sharing insights and the latest developments.
 baseurl: "" #premjith.in/blog the subpath of your site, e.g. /blog
 url: "" #https://premjith.in the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: premjithav
